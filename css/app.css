@@ -1,0 +1,18 @@
+* {
+    color: #00171F;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.secondary-bg {
+    background-color: #121728;
+}
+
+.secondary {
+    color: #EDEDED !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+    /*color: #EDEDED;*/
+}
