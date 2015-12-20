@@ -8,6 +8,10 @@
     background-color: #121728;
 }
 
+.header-bg {
+    background-color: #EF233C;
+}
+
 .secondary {
     color: #EDEDED !important;
 }
@@ -15,4 +19,9 @@
 h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
     /*color: #EDEDED;*/
+}
+
+.projects {
+    padding-top: 1em;
+    padding-bottom: 1em;
 }
