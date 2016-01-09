@@ -1,15 +1,14 @@
 div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, th, td {;
     -webkit-font-smoothing: antialiased;
     font-family: 'Open Sans', sans-serif;
-    color: #1D1B1B;
+    /*color: #1D1B1B;*/
+    color: #273747;
 }
 
-.sidepanel {
-    background-color: #273747;
-}
-
+.sidepanel,
 .sidepanel h6,
 .sidepanel p {
+    background-color: #273747;
     color: #EFEFEF;
 }
 
@@ -24,5 +23,10 @@ h1, h2, h3, h4, h5, h6 {
 .projects {
     padding-top: 1em;
     padding-bottom: 1em;
-    color: #1D1B1B;
+    /*color: #1D1B1B;*/
+    color: #273747 !important;
+}
+
+.left-padded{
+    padding-left: 1em;
 }
