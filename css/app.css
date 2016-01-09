@@ -1,27 +1,28 @@
-* {
-    color: #00171F;
+div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, th, td {;
     -webkit-font-smoothing: antialiased;
     font-family: 'Open Sans', sans-serif;
+    color: #1D1B1B;
 }
 
-.secondary-bg {
-    background-color: #121728;
+.sidepanel {
+    background-color: #273747;
+}
+
+.sidepanel h6,
+.sidepanel p {
+    color: #EFEFEF;
 }
 
 .header-bg {
-    background-color: #EF233C;
-}
-
-.secondary {
-    color: #EDEDED !important;
+    background-color: #EFEFEF;
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
-    /*color: #EDEDED;*/
 }
 
 .projects {
     padding-top: 1em;
     padding-bottom: 1em;
+    color: #1D1B1B;
 }
