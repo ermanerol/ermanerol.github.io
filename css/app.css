@@ -20,6 +20,11 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
 }
 
+.project-type {
+    padding-top: 2em;
+    /*padding-bottom: 1em;*/
+}
+
 .projects {
     padding-top: 1em;
     padding-bottom: 1em;
